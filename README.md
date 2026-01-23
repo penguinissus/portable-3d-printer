@@ -1,5 +1,2 @@
-# portable-3d-printer
-TO DO: UPLOAD PCB PRODUCTION FILES  
-Portable 3D Printer made for TEJ4M (Computer Engineering Course)  
-
-# BOM
+# Portable 3D Printer
+This is a 3D Printer made for the TEJ4M course. 
